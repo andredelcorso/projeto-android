@@ -31,6 +31,11 @@
 :small_blue_diamond: Whats is the function of a DIV;
 <br>
 :small_blue_diamond: Padding and Margin; 
+<br>
+:small_blue_diamond: Favicon;
+<br>
+:small_blue_diamond: How to make an responsivity of any video from another platform
+
 
 
 - In this project there are some changes in the design. I've challenged myself to make my own page with the colours and everything that I wanted to do. Enjoy! 
@@ -38,4 +43,4 @@
 
 ## You can see the web page clicking on the link below. Enjoy! =D
 
-<a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/">Android Project Modified</a>. 
+<a href="#">Android Project Modified</a>. 
