@@ -9,16 +9,27 @@
 
 <li>
 :small_blue_diamond: HTML structure;
+<br>
 :small_blue_diamond: Semantical HTML;
+<br>
 :small_blue_diamond: Responsivity;
+<br>
 :small_blue_diamond: Box in a Box;
+<br>
 :small_blue_diamond: Background image and Background Color; 
+<br>
 :small_blue_diamond: Menu creation; 
+<br>
 :small_blue_diamond: Footer and header; 
+<br>
 :small_blue_diamond: Hyperlinks; 
-:small_blue_diamond: Ordered lists and unordered lists; 
+<br>
+:small_blue_diamond: Ordered lists and unordered lists;
+<br> 
 :small_blue_diamond: Box shadow; 
+<br>
 :small_blue_diamond: Whats is the function of a DIV;
+<br>
 :small_blue_diamond: Padding and Margin; 
 </li>
 
