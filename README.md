@@ -43,4 +43,4 @@
 
 ## You can see the web page clicking on the link below. Enjoy! =D
 
-<a href="https://andredelcorso.github.io/projeto-android/index.html" target="_blank">Android Project Modified</a>. 
+<a href="https://andredelcorso.github.io/projeto-android/index" target="_blank">Android Project Modified</a>. 
