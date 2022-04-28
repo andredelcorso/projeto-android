@@ -7,6 +7,7 @@
 
 - In this project I put everything about basics that I've learned with the previous content. Below, some stuff that I've studied to apply in the page: 
 
+<li>
 :small_blue_diamond: HTML structure;
 :small_blue_diamond: Semantical HTML;
 :small_blue_diamond: Responsivity;
@@ -19,6 +20,7 @@
 :small_blue_diamond: Box shadow; 
 :small_blue_diamond: Whats is the function of a DIV;
 :small_blue_diamond: Padding and Margin; 
+</li>
 
 - In this project there are some changes in the design. I've challenged myself to make my own page with the colours and everything that I wanted to do. Enjoy! 
 
