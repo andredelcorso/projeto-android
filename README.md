@@ -3,7 +3,7 @@
 
 ## What have I learned here?
 
-- This project is a content from the second part from HTML5 and CSS3 class from <a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/" target="_blank">CursoEmVideo</a>. 
+- This project is a content from the second part from HTML5 and CSS3 class from <a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/" target=_blank>CursoEmVideo</a>. 
 
 - In this project I put everything about basics that I've learned with the previous content. Below, some stuff that I've studied to apply in the page: 
 
